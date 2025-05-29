@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote fetch="https://github.com/wooikin/" name="gh" />
+    <project remote="gh" path="app" name="League-Dashboard" revision="1c4b3165432d85bf56a95549e7794083612a678c" />
+    <project remote="gh" path="." name="STDF-CSV-converter" revision="main" />
+</manifest>
+
